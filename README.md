@@ -1,4 +1,3 @@
-Project-Calamity
+Calamity
 ================
-
-Calamity, the War of the Epics Card Game
+_The War of the Epics Card Game_
