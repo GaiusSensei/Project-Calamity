@@ -1,3 +1,3 @@
-Calamity
+Cosmere TCG
 ================
-_The War of the Epics Card Game_
+_Brandon Sanderson Universe Trading Card Game_
